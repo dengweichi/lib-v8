@@ -206,5 +206,5 @@ v8引擎的学习文档可以访问我的博客。点击下面跳转。<br>
 ## 静态库下载
 
 ### v9.4 -- 更新于 2021年7月23日。
-[点击跳转下载](https://www.aliyundrive.com/s/r8mvdosPLEz)
+链接：https://pan.baidu.com/s/1H1UsDieawqSg2h_R3DSCaA 提取码：0000
 
