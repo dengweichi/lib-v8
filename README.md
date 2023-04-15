@@ -4,6 +4,7 @@ v8引擎静态库库文件下载使用。
 
 + 支持ia32/x64架构 windows MSVC下 32/64位 debug/release版本
 + 支持ia32/x64架构 linux GNU下 32/64位 debug/release版本
++ 支持x64/arm架构 mac GNU下 64位 debug/release版本
 
 版本会持续跟新。由于github不支持大文件上传，所以把文件放在了阿里云盘。下载链接在文件下方。<br>
 
@@ -208,3 +209,6 @@ v8引擎的学习文档可以访问我的博客。点击下面跳转。<br>
 ### v9.4 -- 更新于 2021年7月23日。
 链接：https://pan.baidu.com/s/1H1UsDieawqSg2h_R3DSCaA 提取码：0000
 
+
+### v11.04 -- 更新于 2023年4月15日。
+链接: https://pan.baidu.com/s/14OwiR4zGE0qHqQv3gbxJ4g 提取码: 2k3w
